@@ -1,0 +1,3 @@
+[submodule "ranti-iitg.github.io"]
+	path = ranti-iitg.github.io
+	url = git@github.com:ranti-iitg/ranti-iitg.github.io.git
